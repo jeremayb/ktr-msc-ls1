@@ -1,0 +1,7 @@
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\bin\Debug\ktr-msc-ls1 project.exe.config
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\bin\Debug\ktr-msc-ls1 project.exe
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\bin\Debug\ktr-msc-ls1 project.pdb
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\obj\Debug\ktr-msc-ls1 project.csprojAssemblyReference.cache
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\obj\Debug\ktr-msc-ls1 project.csproj.CoreCompileInputs.cache
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\obj\Debug\ktr-msc-ls1 project.exe
+C:\Users\Jérémy\Desktop\Alternance\ktr-msc-ls1 project\ktr-msc-ls1 project\obj\Debug\ktr-msc-ls1 project.pdb
